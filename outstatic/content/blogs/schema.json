@@ -1,0 +1,27 @@
+{
+  "title": "Blogs",
+  "type": "object",
+  "properties": {
+    "description": {
+      "title": "SEO Description (150-160 chars)",
+      "fieldType": "Text",
+      "dataType": "string",
+      "required": true,
+      "description": "Used for Google search meta description"
+    },
+    "coverImage": {
+      "title": "Cover Image (Cloudinary URL)",
+      "fieldType": "String",
+      "dataType": "string",
+      "required": true,
+      "description": "Hosted Cloudinary image URL"
+    },
+    "tags": {
+      "title": "Tags",
+      "fieldType": "Tags",
+      "dataType": "array",
+      "required": false,
+      "description": "Categorization tags"
+    }
+  }
+}
