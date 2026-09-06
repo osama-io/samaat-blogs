@@ -1,11 +1,11 @@
 {
-  "commit": "",
-  "generated": "2026-09-06T21:35:36.173Z",
+  "commit": "50c7e370732cba625330fe467d6a46f1bfbdf7c2",
+  "generated": "2026-09-06T21:40:46.657Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "",
-        "hash": "1447449624",
+        "commit": "50c7e370732cba625330fe467d6a46f1bfbdf7c2",
+        "hash": "3358842957",
         "path": "outstatic/content/blogs/understanding-hearing-loss-solutions-pakistan.mdx"
       },
       "author": {
@@ -15,7 +15,6 @@
       "collection": "blogs",
       "coverImage": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&auto=format&fit=crop&q=80",
       "description": "A comprehensive beginner guide to understanding audiograms, hearing care, and modern discreet hearing aids.",
-      "publishedAt": "2026-09-06T21:33:29.212Z",
       "slug": "understanding-hearing-loss-solutions-pakistan",
       "status": "published",
       "title": "Understanding Hearing Loss & Solutions in Pakistan"
