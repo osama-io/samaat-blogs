@@ -1,6 +1,24 @@
 {
-  "commit": "5416e10be809d7084d7c1d9e7feb89f03347b436",
-  "generated": "2026-09-06T21:44:46.305Z",
+  "commit": "8e70098a10036efc46e24e84389cf6be1e51e8e0",
+  "generated": "2026-09-06T21:58:36.962Z",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "8e70098a10036efc46e24e84389cf6be1e51e8e0",
+        "hash": "944517776",
+        "path": "outstatic/content/blogs/understanding-hearing-loss-solutions-pakistan.mdx"
+      },
+      "author": {
+        "name": "Samaat Editorial Team",
+        "picture": "https://avatars.githubusercontent.com/u/41507953?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&auto=format&fit=crop&q=80",
+      "description": "Discover everything you need to know about understanding hearing loss, audiogram diagnostic tests, modern discreet hearing aids, and expert care in Pakistan.",
+      "publishedAt": "2026-09-06T21:54:01.417Z",
+      "slug": "understanding-hearing-loss-solutions-pakistan",
+      "status": "draft",
+      "title": "Understanding Hearing Loss & Solutions in Pakistan"
+    }
   ]
 }
