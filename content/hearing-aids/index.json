@@ -1,0 +1,913 @@
+{
+ "whatsapp": "923390000929",
+ "brands": [
+  {
+   "slug": "rexton",
+   "name": "Rexton"
+  },
+  {
+   "slug": "signia",
+   "name": "Signia"
+  },
+  {
+   "slug": "a-m",
+   "name": "A&M"
+  },
+  {
+   "slug": "interton",
+   "name": "Interton"
+  },
+  {
+   "slug": "oticon",
+   "name": "Oticon"
+  },
+  {
+   "slug": "vesuvio",
+   "name": "Vesuvio"
+  }
+ ],
+ "products": [
+  {
+   "slug": "inox-cic-5",
+   "name": "INOX CIC 5",
+   "brand": "Rexton",
+   "brand_slug": "rexton",
+   "type": "CIC",
+   "price_pkr": 3234.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/rexton/inox-cic-5-1.webp",
+     "alt": "INOX CIC 5 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/inox-cic-5-2.webp",
+     "alt": "INOX CIC 5 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/inox-cic-5-3.webp",
+     "alt": "INOX CIC 5 hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "bicore-bp-20",
+   "name": "BiCore BP 20",
+   "brand": "Rexton",
+   "brand_slug": "rexton",
+   "type": "BTE",
+   "price_pkr": 10000.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/rexton/bicore-bp-20-1.webp",
+     "alt": "BiCore BP 20 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/bicore-bp-20-2.webp",
+     "alt": "BiCore BP 20 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/bicore-bp-20-3.webp",
+     "alt": "BiCore BP 20 hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "targa-hp-5",
+   "name": "TARGA HP 5",
+   "brand": "Rexton",
+   "brand_slug": "rexton",
+   "type": "BTE",
+   "price_pkr": 1000.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/rexton/targa-hp-5-1.webp",
+     "alt": "TARGA HP 5 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/targa-hp-5-2.webp",
+     "alt": "TARGA HP 5 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/targa-hp-5-3.webp",
+     "alt": "TARGA HP 5 hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "recharge-b-li-p-5",
+   "name": "Recharge B LI P 5",
+   "brand": "Rexton",
+   "brand_slug": "rexton",
+   "type": "BTE",
+   "price_pkr": 432.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/rexton/recharge-b-li-p-5-1.png",
+     "alt": "Recharge B LI P 5 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/recharge-b-li-p-5-2.webp",
+     "alt": "Recharge B LI P 5 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/recharge-b-li-p-5-3.webp",
+     "alt": "Recharge B LI P 5 hearing aid image 3"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/recharge-b-li-p-5-4.webp",
+     "alt": "Recharge B LI P 5 hearing aid image 4"
+    }
+   ]
+  },
+  {
+   "slug": "bicore-b-hp-10",
+   "name": "Bicore B HP 10",
+   "brand": "Rexton",
+   "brand_slug": "rexton",
+   "type": "BTE",
+   "price_pkr": 54345.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/rexton/bicore-b-hp-10-1.webp",
+     "alt": "Bicore B HP 10 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/bicore-b-hp-10-2.webp",
+     "alt": "Bicore B HP 10 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/bicore-b-hp-10-3.webp",
+     "alt": "Bicore B HP 10 hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "recharge-b-li-hp-5",
+   "name": "Recharge B LI HP 5",
+   "brand": "Rexton",
+   "brand_slug": "rexton",
+   "type": "BTE",
+   "price_pkr": 5543.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/rexton/recharge-b-li-hp-5-1.png",
+     "alt": "Recharge B LI HP 5 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/recharge-b-li-hp-5-2.webp",
+     "alt": "Recharge B LI HP 5 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/recharge-b-li-hp-5-3.webp",
+     "alt": "Recharge B LI HP 5 hearing aid image 3"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/recharge-b-li-hp-5-4.webp",
+     "alt": "Recharge B LI HP 5 hearing aid image 4"
+    }
+   ]
+  },
+  {
+   "slug": "bicore-b-p-10",
+   "name": "Bicore B P 10",
+   "brand": "Rexton",
+   "brand_slug": "rexton",
+   "type": "BTE",
+   "price_pkr": 432.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/rexton/bicore-b-p-10-1.png",
+     "alt": "Bicore B P 10 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/bicore-b-p-10-2.webp",
+     "alt": "Bicore B P 10 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/bicore-b-p-10-3.webp",
+     "alt": "Bicore B P 10 hearing aid image 3"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/bicore-b-p-10-4.webp",
+     "alt": "Bicore B P 10 hearing aid image 4"
+    }
+   ]
+  },
+  {
+   "slug": "targa-p-5",
+   "name": "TARGA P 5",
+   "brand": "Rexton",
+   "brand_slug": "rexton",
+   "type": "BTE",
+   "price_pkr": 1666.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/rexton/targa-p-5-1.png",
+     "alt": "TARGA P 5 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/targa-p-5-2.webp",
+     "alt": "TARGA P 5 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/targa-p-5-3.webp",
+     "alt": "TARGA P 5 hearing aid image 3"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/targa-p-5-4.webp",
+     "alt": "TARGA P 5 hearing aid image 4"
+    }
+   ]
+  },
+  {
+   "slug": "bicore-bhp-20",
+   "name": "BiCore BHP 20",
+   "brand": "Rexton",
+   "brand_slug": "rexton",
+   "type": "BTE",
+   "price_pkr": 2000.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/rexton/bicore-bhp-20-1.png",
+     "alt": "BiCore BHP 20 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/bicore-bhp-20-2.webp",
+     "alt": "BiCore BHP 20 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/bicore-bhp-20-3.webp",
+     "alt": "BiCore BHP 20 hearing aid image 3"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/bicore-bhp-20-4.webp",
+     "alt": "BiCore BHP 20 hearing aid image 4"
+    }
+   ]
+  },
+  {
+   "slug": "mosaic-p10-e1",
+   "name": "MOSAIC P10 E1",
+   "brand": "Rexton",
+   "brand_slug": "rexton",
+   "type": "BTE",
+   "price_pkr": 1000.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/rexton/mosaic-p10-e1-1.webp",
+     "alt": "MOSAIC P10 E1 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/mosaic-p10-e1-2.webp",
+     "alt": "MOSAIC P10 E1 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/rexton/mosaic-p10-e1-3.webp",
+     "alt": "MOSAIC P10 E1 hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "prompt-sp",
+   "name": "PROMPT SP",
+   "brand": "Signia",
+   "brand_slug": "signia",
+   "type": "BTE",
+   "price_pkr": 1999.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/signia/prompt-sp-1.webp",
+     "alt": "PROMPT SP hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/signia/prompt-sp-2.webp",
+     "alt": "PROMPT SP hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/signia/prompt-sp-3.webp",
+     "alt": "PROMPT SP hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "prompt-itc-l",
+   "name": "Prompt ITC L",
+   "brand": "Signia",
+   "brand_slug": "signia",
+   "type": "ITC",
+   "price_pkr": 432.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/signia/prompt-itc-l-1.webp",
+     "alt": "Prompt ITC L hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/signia/prompt-itc-l-2.webp",
+     "alt": "Prompt ITC L hearing aid image 2"
+    }
+   ]
+  },
+  {
+   "slug": "intius-3cic-r",
+   "name": "Intius 3CIC R",
+   "brand": "Signia",
+   "brand_slug": "signia",
+   "type": "CIC",
+   "price_pkr": 543.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/signia/intius-3cic-r-1.webp",
+     "alt": "Intius 3CIC R hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/signia/intius-3cic-r-2.webp",
+     "alt": "Intius 3CIC R hearing aid image 2"
+    }
+   ]
+  },
+  {
+   "slug": "ster5-cic-r",
+   "name": "STER5 CIC R",
+   "brand": "Signia",
+   "brand_slug": "signia",
+   "type": "CIC",
+   "price_pkr": 432.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/signia/ster5-cic-r-1.webp",
+     "alt": "STER5 CIC R hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/signia/ster5-cic-r-2.webp",
+     "alt": "STER5 CIC R hearing aid image 2"
+    }
+   ]
+  },
+  {
+   "slug": "prompt-cic-l",
+   "name": "Prompt CIC L",
+   "brand": "Signia",
+   "brand_slug": "signia",
+   "type": "CIC",
+   "price_pkr": 432.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/signia/prompt-cic-l-1.webp",
+     "alt": "Prompt CIC L hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/signia/prompt-cic-l-2.webp",
+     "alt": "Prompt CIC L hearing aid image 2"
+    }
+   ]
+  },
+  {
+   "slug": "prompt-click-cic",
+   "name": "PROMPT CLICK CIC",
+   "brand": "Signia",
+   "brand_slug": "signia",
+   "type": "CIC",
+   "price_pkr": 1655.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/signia/prompt-click-cic-1.webp",
+     "alt": "PROMPT CLICK CIC hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/signia/prompt-click-cic-2.webp",
+     "alt": "PROMPT CLICK CIC hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/signia/prompt-click-cic-3.webp",
+     "alt": "PROMPT CLICK CIC hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "pure-312-1x",
+   "name": "Pure 312 1X",
+   "brand": "Signia",
+   "brand_slug": "signia",
+   "type": "BTE",
+   "price_pkr": 1000.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/signia/pure-312-1x-1.webp",
+     "alt": "Pure 312 1X hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/signia/pure-312-1x-2.webp",
+     "alt": "Pure 312 1X hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/signia/pure-312-1x-3.webp",
+     "alt": "Pure 312 1X hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "motion-sp-1px",
+   "name": "Motion SP 1PX",
+   "brand": "Signia",
+   "brand_slug": "signia",
+   "type": "BTE",
+   "price_pkr": 3432.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/signia/motion-sp-1px-1.webp",
+     "alt": "Motion SP 1PX hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/signia/motion-sp-1px-2.webp",
+     "alt": "Motion SP 1PX hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/signia/motion-sp-1px-3.webp",
+     "alt": "Motion SP 1PX hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "ster5-itc-r",
+   "name": "STER5 ITC R",
+   "brand": "Signia",
+   "brand_slug": "signia",
+   "type": "ITC",
+   "price_pkr": 54234.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/signia/ster5-itc-r-1.webp",
+     "alt": "STER5 ITC R hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/signia/ster5-itc-r-2.webp",
+     "alt": "STER5 ITC R hearing aid image 2"
+    }
+   ]
+  },
+  {
+   "slug": "intius-3-ric-312",
+   "name": "Intius 3 RIC 312",
+   "brand": "Signia",
+   "brand_slug": "signia",
+   "type": "ITC",
+   "price_pkr": 243.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/signia/intius-3-ric-312-1.webp",
+     "alt": "Intius 3 RIC 312 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/signia/intius-3-ric-312-2.webp",
+     "alt": "Intius 3 RIC 312 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/signia/intius-3-ric-312-3.webp",
+     "alt": "Intius 3 RIC 312 hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "intius-3-p",
+   "name": "Intius 3 P",
+   "brand": "Signia",
+   "brand_slug": "signia",
+   "type": "BTE",
+   "price_pkr": 432.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/signia/intius-3-p-1.webp",
+     "alt": "Intius 3 P hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/signia/intius-3-p-2.webp",
+     "alt": "Intius 3 P hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/signia/intius-3-p-3.webp",
+     "alt": "Intius 3 P hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "xtm-s-p4",
+   "name": "XTM S P4",
+   "brand": "A&M",
+   "brand_slug": "a-m",
+   "type": "BTE",
+   "price_pkr": 4334.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/a-m/xtm-s-p4-1.png",
+     "alt": "XTM S P4 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/a-m/xtm-s-p4-2.webp",
+     "alt": "XTM S P4 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/a-m/xtm-s-p4-3.webp",
+     "alt": "XTM S P4 hearing aid image 3"
+    },
+    {
+     "src": "/images/hearing-aids/a-m/xtm-s-p4-4.webp",
+     "alt": "XTM S P4 hearing aid image 4"
+    }
+   ]
+  },
+  {
+   "slug": "stf-xp-t3",
+   "name": "STF XP T3",
+   "brand": "A&M",
+   "brand_slug": "a-m",
+   "type": "BTE",
+   "price_pkr": 5645.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/a-m/stf-xp-t3-1.webp",
+     "alt": "STF XP T3 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/a-m/stf-xp-t3-2.webp",
+     "alt": "STF XP T3 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/a-m/stf-xp-t3-3.webp",
+     "alt": "STF XP T3 hearing aid image 3"
+    },
+    {
+     "src": "/images/hearing-aids/a-m/stf-xp-t3-4.webp",
+     "alt": "STF XP T3 hearing aid image 4"
+    }
+   ]
+  },
+  {
+   "slug": "xtm-p-p4",
+   "name": "XTM P P4",
+   "brand": "A&M",
+   "brand_slug": "a-m",
+   "type": "BTE",
+   "price_pkr": 4534.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/a-m/xtm-p-p4-1.webp",
+     "alt": "XTM P P4 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/a-m/xtm-p-p4-2.webp",
+     "alt": "XTM P P4 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/a-m/xtm-p-p4-3.webp",
+     "alt": "XTM P P4 hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "xtm-if-cic-p4",
+   "name": "XTM IF CIC P4",
+   "brand": "A&M",
+   "brand_slug": "a-m",
+   "type": "CIC",
+   "price_pkr": 1000.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/a-m/xtm-if-cic-p4-1.webp",
+     "alt": "XTM IF CIC P4 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/a-m/xtm-if-cic-p4-2.webp",
+     "alt": "XTM IF CIC P4 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/a-m/xtm-if-cic-p4-3.webp",
+     "alt": "XTM IF CIC P4 hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "mv-280",
+   "name": "MV 280",
+   "brand": "Interton",
+   "brand_slug": "interton",
+   "type": "BTE",
+   "price_pkr": 1243.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/interton/mv-280-1.webp",
+     "alt": "MV 280 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/interton/mv-280-2.webp",
+     "alt": "MV 280 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/interton/mv-280-3.webp",
+     "alt": "MV 280 hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "xc-388",
+   "name": "XC 388",
+   "brand": "Interton",
+   "brand_slug": "interton",
+   "type": "BTE",
+   "price_pkr": 3234.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/interton/xc-388-1.png",
+     "alt": "XC 388 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/interton/xc-388-2.webp",
+     "alt": "XC 388 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/interton/xc-388-3.webp",
+     "alt": "XC 388 hearing aid image 3"
+    },
+    {
+     "src": "/images/hearing-aids/interton/xc-388-4.webp",
+     "alt": "XC 388 hearing aid image 4"
+    }
+   ]
+  },
+  {
+   "slug": "mv-270",
+   "name": "MV 270",
+   "brand": "Interton",
+   "brand_slug": "interton",
+   "type": "BTE",
+   "price_pkr": 2123.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/interton/mv-270-1.png",
+     "alt": "MV 270 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/interton/mv-270-2.webp",
+     "alt": "MV 270 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/interton/mv-270-3.webp",
+     "alt": "MV 270 hearing aid image 3"
+    },
+    {
+     "src": "/images/hearing-aids/interton/mv-270-4.webp",
+     "alt": "MV 270 hearing aid image 4"
+    }
+   ]
+  },
+  {
+   "slug": "mv-261",
+   "name": "MV 261",
+   "brand": "Interton",
+   "brand_slug": "interton",
+   "type": "BTE",
+   "price_pkr": 3243.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/interton/mv-261-1.png",
+     "alt": "MV 261 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/interton/mv-261-2.webp",
+     "alt": "MV 261 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/interton/mv-261-3.webp",
+     "alt": "MV 261 hearing aid image 3"
+    },
+    {
+     "src": "/images/hearing-aids/interton/mv-261-4.webp",
+     "alt": "MV 261 hearing aid image 4"
+    }
+   ]
+  },
+  {
+   "slug": "mv4-62",
+   "name": "MV4 62",
+   "brand": "Interton",
+   "brand_slug": "interton",
+   "type": "BTE",
+   "price_pkr": 1424.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/interton/mv4-62-1.webp",
+     "alt": "MV4 62 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/interton/mv4-62-2.webp",
+     "alt": "MV4 62 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/interton/mv4-62-3.webp",
+     "alt": "MV4 62 hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "interton-mv4-90",
+   "name": "Interton mv4 90",
+   "brand": "Interton",
+   "brand_slug": "interton",
+   "type": "BTE",
+   "price_pkr": 432.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/interton/interton-mv4-90-1.webp",
+     "alt": "Interton mv4 90 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/interton/interton-mv4-90-2.webp",
+     "alt": "Interton mv4 90 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/interton/interton-mv4-90-3.webp",
+     "alt": "Interton mv4 90 hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "xc362",
+   "name": "XC362",
+   "brand": "Interton",
+   "brand_slug": "interton",
+   "type": "BTE",
+   "price_pkr": 43232.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/interton/xc362-1.webp",
+     "alt": "XC362 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/interton/xc362-2.webp",
+     "alt": "XC362 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/interton/xc362-3.webp",
+     "alt": "XC362 hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "xc3cic-hp",
+   "name": "XC3CIC HP",
+   "brand": "Interton",
+   "brand_slug": "interton",
+   "type": "CIC",
+   "price_pkr": 234.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/interton/xc3cic-hp-1.webp",
+     "alt": "XC3CIC HP hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/interton/xc3cic-hp-2.webp",
+     "alt": "XC3CIC HP hearing aid image 2"
+    }
+   ]
+  },
+  {
+   "slug": "xc361",
+   "name": "XC361",
+   "brand": "Interton",
+   "brand_slug": "interton",
+   "type": "BTE",
+   "price_pkr": 3423.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/interton/xc361-1.png",
+     "alt": "XC361 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/interton/xc361-2.webp",
+     "alt": "XC361 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/interton/xc361-3.webp",
+     "alt": "XC361 hearing aid image 3"
+    },
+    {
+     "src": "/images/hearing-aids/interton/xc361-4.webp",
+     "alt": "XC361 hearing aid image 4"
+    }
+   ]
+  },
+  {
+   "slug": "denavox-xc298",
+   "name": "Denavox XC298",
+   "brand": "Interton",
+   "brand_slug": "interton",
+   "type": "BTE",
+   "price_pkr": 2341.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/interton/denavox-xc298-1.webp",
+     "alt": "Denavox XC298 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/interton/denavox-xc298-2.webp",
+     "alt": "Denavox XC298 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/interton/denavox-xc298-3.webp",
+     "alt": "Denavox XC298 hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "jet-2",
+   "name": "JET 2",
+   "brand": "Oticon",
+   "brand_slug": "oticon",
+   "type": "BTE",
+   "price_pkr": 234.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/oticon/jet-2-1.webp",
+     "alt": "JET 2 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/oticon/jet-2-2.webp",
+     "alt": "JET 2 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/oticon/jet-2-3.webp",
+     "alt": "JET 2 hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "desc-ria2",
+   "name": "DESC RIA2",
+   "brand": "Oticon",
+   "brand_slug": "oticon",
+   "type": "CIC",
+   "price_pkr": 432.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/oticon/desc-ria2-1.webp",
+     "alt": "DESC RIA2 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/oticon/desc-ria2-2.webp",
+     "alt": "DESC RIA2 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/oticon/desc-ria2-3.webp",
+     "alt": "DESC RIA2 hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "xceed-3-up",
+   "name": "XCEED 3 UP",
+   "brand": "Oticon",
+   "brand_slug": "oticon",
+   "type": "BTE",
+   "price_pkr": 5423.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/oticon/xceed-3-up-1.webp",
+     "alt": "XCEED 3 UP hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/oticon/xceed-3-up-2.webp",
+     "alt": "XCEED 3 UP hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/oticon/xceed-3-up-3.webp",
+     "alt": "XCEED 3 UP hearing aid image 3"
+    }
+   ]
+  },
+  {
+   "slug": "stf-xp-t3",
+   "name": "STF XP T3",
+   "brand": "Vesuvio",
+   "brand_slug": "vesuvio",
+   "type": "BTE",
+   "price_pkr": 31453.0,
+   "images": [
+    {
+     "src": "/images/hearing-aids/vesuvio/stf-xp-t3-1.webp",
+     "alt": "STF XP T3 hearing aid image 1"
+    },
+    {
+     "src": "/images/hearing-aids/vesuvio/stf-xp-t3-2.webp",
+     "alt": "STF XP T3 hearing aid image 2"
+    },
+    {
+     "src": "/images/hearing-aids/vesuvio/stf-xp-t3-3.webp",
+     "alt": "STF XP T3 hearing aid image 3"
+    },
+    {
+     "src": "/images/hearing-aids/vesuvio/stf-xp-t3-4.webp",
+     "alt": "STF XP T3 hearing aid image 4"
+    }
+   ]
+  }
+ ]
+}
