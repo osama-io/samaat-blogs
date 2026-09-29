@@ -6,7 +6,7 @@ publishedAt: 2026-09-23
 updatedAt: 2026-09-23
 author: Samaat Editorial Team
 category: Local Guides
-featuredImage: https://images.unsplash.com/photo-1591615565623-f0da7b80c2aa?auto=format&fit=crop&w=1200&q=80
+featuredImage: https://images.unsplash.com/photo-1596088728260-08a654466a00?auto=format&fit=crop&w=1200&q=80
 featuredImageAlt: Hearing aid price in Islamabad — hearing aid on audiology table
 tags: ["hearing aid price in islamabad", "hearing aids islamabad", "hearing aid price in pakistan"]
 ---
