@@ -6,7 +6,7 @@ type: "BTE"
 price_pkr: 2000.0
 slug: "bicore-bhp-20"
 images:
-  - src: "/images/hearing-aids/rexton/bicore-bhp-20-1.png"
+  - src: "/images/hearing-aids/rexton/bicore-bhp-20-1.webp"
     alt: "BiCore BHP 20 hearing aid image 1"
   - src: "/images/hearing-aids/rexton/bicore-bhp-20-2.webp"
     alt: "BiCore BHP 20 hearing aid image 2"

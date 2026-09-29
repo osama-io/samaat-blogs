@@ -6,7 +6,7 @@ type: "BTE"
 price_pkr: 4334.0
 slug: "xtm-s-p4"
 images:
-  - src: "/images/hearing-aids/a-m/xtm-s-p4-1.png"
+  - src: "/images/hearing-aids/a-m/xtm-s-p4-1.webp"
     alt: "XTM S P4 hearing aid image 1"
   - src: "/images/hearing-aids/a-m/xtm-s-p4-2.webp"
     alt: "XTM S P4 hearing aid image 2"

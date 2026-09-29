@@ -6,7 +6,7 @@ type: "BTE"
 price_pkr: 432.0
 slug: "bicore-b-p-10"
 images:
-  - src: "/images/hearing-aids/rexton/bicore-b-p-10-1.png"
+  - src: "/images/hearing-aids/rexton/bicore-b-p-10-1.webp"
     alt: "Bicore B P 10 hearing aid image 1"
   - src: "/images/hearing-aids/rexton/bicore-b-p-10-2.webp"
     alt: "Bicore B P 10 hearing aid image 2"

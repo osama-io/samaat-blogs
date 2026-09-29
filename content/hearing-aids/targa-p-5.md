@@ -6,7 +6,7 @@ type: "BTE"
 price_pkr: 1666.0
 slug: "targa-p-5"
 images:
-  - src: "/images/hearing-aids/rexton/targa-p-5-1.png"
+  - src: "/images/hearing-aids/rexton/targa-p-5-1.webp"
     alt: "TARGA P 5 hearing aid image 1"
   - src: "/images/hearing-aids/rexton/targa-p-5-2.webp"
     alt: "TARGA P 5 hearing aid image 2"

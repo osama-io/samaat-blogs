@@ -6,7 +6,7 @@ type: "BTE"
 price_pkr: 432.0
 slug: "recharge-b-li-p-5"
 images:
-  - src: "/images/hearing-aids/rexton/recharge-b-li-p-5-1.png"
+  - src: "/images/hearing-aids/rexton/recharge-b-li-p-5-1.webp"
     alt: "Recharge B LI P 5 hearing aid image 1"
   - src: "/images/hearing-aids/rexton/recharge-b-li-p-5-2.webp"
     alt: "Recharge B LI P 5 hearing aid image 2"
