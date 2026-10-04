@@ -117,7 +117,7 @@ Aam log qeemat sirf device ki sochte hain, lekin pehle saal mein sirf device ke 
 
 In minor items ki total pehle saal mein taqreeban PKR 15,000 se 25,000 tak elaq add hota hai, jo family budget mein hona chahiye taake pehli invoice badal ke surprise na lage.
 
-## Last sala
+## Aakhri sala
 
 Pakistan mein kan ki machine ka market bohat bada aur chaotic hai, aur aap jitni asaani se asli device dhoond sakte hain wahid tarika yehi hai: audiogram liya, phir likha hua quote, phir warranty ka kaghaz. Yeh teen cheezein aap ko bazaar ke 90% dhokon se bacha leti hain.
 
