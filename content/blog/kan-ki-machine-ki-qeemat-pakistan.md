@@ -2,8 +2,8 @@
 title: "Kan Ki Machine Ki Qeemat Pakistan 2026"
 description: "Kan ki machine ki qeemat Pakistan 2026: A&M 8,000 se Interton 18,000, Rexton 25,000, Signia 55,000, Phonak 60,000 tak. Har band ki jankari aur saleh."
 slug: kan-ki-machine-ki-qeemat-pakistan
-publishedAt: 2026-09-30
-updatedAt: 2026-09-30
+publishedAt: 2026-08-20T19:35:00+05:00
+updatedAt: 2026-08-20T19:35:00+05:00
 author: Samaat Editorial Team
 category: Buying Guides
 featuredImage: https://images.unsplash.com/photo-1596088728260-08a654466a00?auto=format&fit=crop&w=1200&q=80

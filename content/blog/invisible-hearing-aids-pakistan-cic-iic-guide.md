@@ -3,7 +3,7 @@ title: "Invisible Hearing Aids in Pakistan: CIC and IIC Buyer's Guide"
 description: "Invisible hearing aid price in Pakistan in 2026: CIC/IIC models PKR 50,000–550,000 per ear, Click CIC ready-to-wear options, candidacy rules and the maintenance trade-offs."
 slug: invisible-hearing-aids-pakistan-cic-iic-guide
 publishedAt: 2026-09-18
-updatedAt: 2026-09-23
+updatedAt: 2026-09-18
 author: Samaat Editorial Team
 category: Buying Guides
 featuredImage: https://images.unsplash.com/photo-1603336540535-c661f8f23fd5?auto=format&fit=crop&w=1200&q=80

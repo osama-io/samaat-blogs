@@ -2,8 +2,8 @@
 title: "Unitron Hearing Aid Price in Pakistan (2026)"
 description: "Unitron hearing aid price in Pakistan 2026: PKR 25,000 to 150,000 per ear. Sonova value brand offers Phonak platform tech at a visibly lower price."
 slug: unitron-hearing-aid-price-pakistan
-publishedAt: 2026-09-30
-updatedAt: 2026-09-30
+publishedAt: 2026-09-24T16:50:00+05:00
+updatedAt: 2026-09-24T16:50:00+05:00
 author: Samaat Editorial Team
 category: Brands
 featuredImage: https://images.unsplash.com/photo-1596088869451-491e167efabb?auto=format&fit=crop&w=1200&q=80

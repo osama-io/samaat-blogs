@@ -2,8 +2,8 @@
 title: "Hearing Aid Battery Price in Pakistan 2026"
 description: "Hearing aid battery price in Pakistan 2026: Rs 350 to 650 per 6-pack, sizes 10, 312, 13, 675. Days per cell, monthly cost, rechargeable math."
 slug: hearing-aid-battery-price-pakistan
-publishedAt: 2026-09-30
-updatedAt: 2026-09-30
+publishedAt: 2026-09-30T14:55:00+05:00
+updatedAt: 2026-09-30T14:55:00+05:00
 author: Samaat Editorial Team
 category: Buying Guides
 featuredImage: https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1200&q=80

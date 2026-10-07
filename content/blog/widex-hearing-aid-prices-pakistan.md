@@ -2,8 +2,8 @@
 title: "Widex Hearing Aid Price in Pakistan (2026) — Model Guide"
 description: "Widex hearing aid price in Pakistan in 2026: PKR 55,000–550,000 per ear. Moment Sheer and SmartRIC model table, sound-quality positioning, and buying tips."
 slug: widex-hearing-aid-prices-pakistan
-publishedAt: 2026-09-23
-updatedAt: 2026-09-23
+publishedAt: 2026-09-23T14:00:00+05:00
+updatedAt: 2026-09-23T14:00:00+05:00
 author: Samaat Editorial Team
 category: Buying Guides
 featuredImage: https://images.unsplash.com/photo-1584362917165-526a968579e8?auto=format&fit=crop&w=1200&q=80

@@ -3,7 +3,7 @@ title: "Top 7 Tips to Clean and Maintain Your Hearing Aids in Pakistan's Climate
 description: "Dust, sweat, and monsoon humidity are hard on hearing aids. Here is the cleaning and drying routine that keeps them working through a Pakistani summer."
 slug: how-to-care-for-your-hearing-aids
 publishedAt: 2026-03-05
-updatedAt: 2026-09-10
+updatedAt: 2026-03-05
 author: Samaat Editorial Team
 category: Maintenance
 featuredImage: https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80

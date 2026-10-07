@@ -2,8 +2,8 @@
 title: "ReSound Hearing Aid Price in Pakistan (2026)"
 description: "ReSound hearing aid price in Pakistan 2026: PKR 45,000 to 370,000 per ear. Model tiers, GN Group app and connectivity strengths, and buying advice."
 slug: resound-hearing-aid-price-pakistan
-publishedAt: 2026-09-30
-updatedAt: 2026-09-30
+publishedAt: 2026-10-06T11:25:00+05:00
+updatedAt: 2026-10-06T11:25:00+05:00
 author: Samaat Editorial Team
 category: Brands
 featuredImage: https://images.unsplash.com/photo-1598256989800-fe5f95da9787?auto=format&fit=crop&w=1200&q=80

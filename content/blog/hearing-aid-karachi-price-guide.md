@@ -2,8 +2,8 @@
 title: "Hearing Aid Price in Karachi (2026): Models, Clinics & Quotes"
 description: "Hearing aid price in Karachi in 2026: PKR 15,000–550,000 per ear. Price bands by tier, where to buy in DHA/Clifton/Saddar, and how to keep quotes honest."
 slug: hearing-aid-karachi-price-guide
-publishedAt: 2026-09-23
-updatedAt: 2026-09-23
+publishedAt: 2026-09-21T21:25:00+05:00
+updatedAt: 2026-09-21T21:25:00+05:00
 author: Samaat Editorial Team
 category: Local Guides
 featuredImage: https://images.unsplash.com/photo-1596088728260-08a654466a00?auto=format&fit=crop&w=1200&q=80

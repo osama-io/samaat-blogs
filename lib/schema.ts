@@ -104,3 +104,45 @@ export function websiteJsonLd() {
     publisher: publisherNode(),
   }
 }
+
+/**
+ * FAQPage JSON-LD from a post body.
+ *
+ * Extracts the `### question` headings under the exact H2 "Frequently Asked
+ * Questions". Only questions actually present on the page are emitted, so the
+ * schema never claims content the reader cannot see.
+ */
+export function faqJsonLd(post: Post): { "@context": string; "@type": "FAQPage"; mainEntity: { "@type": string; name: string; acceptedAnswer: { "@type": string; text: string } }[] } | null {
+  const h2 = "## Frequently Asked Questions"
+  const idx = post.body.indexOf(h2)
+  if (idx === -1) return null
+  const section = post.body.slice(idx + h2.length)
+  const nextH2 = section.indexOf("\n## ")
+  const scoped = nextH2 === -1 ? section : section.slice(0, nextH2)
+  const mainEntity: { "@type": string; name: string; acceptedAnswer: { "@type": string; text: string } }[] = []
+  const parts = scoped.split(/### /)
+  for (const part of parts) {
+    const qEnd = part.indexOf("\n")
+    if (qEnd === -1) continue
+    const question = part.slice(0, qEnd).trim()
+    if (!question) continue
+    const answer = part
+      .slice(qEnd)
+      .trim()
+      .replace(/\[(.+?)\]\(.+?\)/g, "$1")
+      .replace(/\*\*/g, "")
+      .replace(/\n+/g, " ")
+      .trim()
+    mainEntity.push({
+      "@type": "Question",
+      name: question,
+      acceptedAnswer: { "@type": "Answer", text: answer },
+    })
+  }
+  if (mainEntity.length === 0) return null
+  return {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity,
+  }
+}

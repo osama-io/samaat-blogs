@@ -2,8 +2,8 @@
 title: "Buying a Hearing Aid for Elderly Parents in Pakistan"
 description: "Buying a hearing aid for elderly parents in Pakistan: simple controls vs app, battery vs rechargeable, remote setup, delivery, PKR 8,000 to 500,000 bands."
 slug: hearing-aid-elderly-parents-guide-pakistan
-publishedAt: 2026-09-30
-updatedAt: 2026-09-30
+publishedAt: 2026-09-28T10:15:00+05:00
+updatedAt: 2026-09-28T10:15:00+05:00
 author: Samaat Editorial Team
 category: Buying Guides
 featuredImage: https://images.unsplash.com/photo-1624365165348-442bdf12b0a4?auto=format&fit=crop&w=1200&q=80

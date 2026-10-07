@@ -2,8 +2,8 @@
 title: "Hearing Aid Price in Islamabad & Rawalpindi (2026)"
 description: "Hearing aid price in Islamabad and Rawalpindi in 2026: PKR 15,000–550,000 per ear. Tier bands, twin-city clinics, Real Ear Measurement fitting, and quote checklist."
 slug: hearing-aid-islamabad-price-guide
-publishedAt: 2026-09-23
-updatedAt: 2026-09-23
+publishedAt: 2026-10-05T09:25:00+05:00
+updatedAt: 2026-10-05T09:25:00+05:00
 author: Samaat Editorial Team
 category: Local Guides
 featuredImage: https://images.unsplash.com/photo-1596088728260-08a654466a00?auto=format&fit=crop&w=1200&q=80

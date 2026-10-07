@@ -2,8 +2,8 @@
 title: "Understanding Hearing Loss & Solutions in Pakistan"
 description: "The three types of hearing loss, what an audiogram measures, which hearing aid styles fit which loss, and when to see an ENT specialist instead."
 slug: understanding-hearing-loss-solutions-pakistan
-publishedAt: 2026-09-06
-updatedAt: 2026-09-16
+publishedAt: 2026-08-26T20:00:00+05:00
+updatedAt: 2026-08-26T20:00:00+05:00
 author: Samaat Editorial Team
 category: Hearing Health
 featuredImage: https://images.unsplash.com/photo-1611532736579-6b16e2b50449?auto=format&fit=crop&w=1200&q=80

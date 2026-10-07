@@ -2,8 +2,8 @@
 title: "Phonak Hearing Aid Price in Pakistan (2026) — Model Table"
 description: "Phonak hearing aid price in Pakistan for 2026: PKR 60,000–550,000 per ear. Full model table for Audéo Lumity, Infinio, Virto, Sky, plus what is included in clinic quotes."
 slug: phonak-hearing-aid-prices-pakistan
-publishedAt: 2026-09-23
-updatedAt: 2026-09-23
+publishedAt: 2026-09-19T10:25:00+05:00
+updatedAt: 2026-09-19T10:25:00+05:00
 author: Samaat Editorial Team
 category: Buying Guides
 featuredImage: https://images.unsplash.com/photo-1584982751601-97dcc096659c?auto=format&fit=crop&w=1200&q=80

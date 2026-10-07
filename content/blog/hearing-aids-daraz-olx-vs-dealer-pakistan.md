@@ -2,8 +2,8 @@
 title: "Hearing Aids on Daraz & OLX Pakistan (2026): Should You Buy?"
 description: "Hearing aid prices on Daraz and OLX in Pakistan look unbeatable — Rs 1,500 ' aids' and Rs 40,000 flagships. What those listings actually are, and when buying is safe."
 slug: hearing-aids-daraz-olx-vs-dealer-pakistan
-publishedAt: 2026-09-23
-updatedAt: 2026-09-23
+publishedAt: 2026-09-17T20:00:00+05:00
+updatedAt: 2026-09-17T20:00:00+05:00
 author: Samaat Editorial Team
 category: Buying Guides
 featuredImage: https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1200&q=80

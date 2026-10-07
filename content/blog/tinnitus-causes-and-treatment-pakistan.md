@@ -2,7 +2,7 @@
 title: "Tinnitus in Pakistan: Causes, When to Worry, and What Actually Helps"
 description: "Why your ears ring, what tinnitus usually means, the red flags that need a doctor this week, and the treatments that genuinely help most people in Pakistan."
 slug: tinnitus-causes-and-treatment-pakistan
-publishedAt: 2026-09-21T20:00:00+05:00
+publishedAt: 2026-08-28T18:40:00+05:00
 author: Samaat Editorial Team
 category: Hearing Health
 featuredImage: https://images.unsplash.com/photo-1523287775146-24130f384378?auto=format&fit=crop&w=1200&q=80
