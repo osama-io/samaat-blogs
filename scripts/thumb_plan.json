@@ -21,8 +21,7 @@
     "slug": "hearing-aids-daraz-olx-vs-dealer-pakistan",
     "file": "public/images/blog/hearing-aids-daraz-olx-vs-dealer-pakistan.webp",
     "source_image": "https://images.unsplash.com/photo-1600857544200-b2f666a9a2ec?auto=format&fit=crop&w=1200&q=80",
-    "featuredImageAlt": "Daraz & OLX Hearing Aids vs a Real Dealer — Samaat.pk — Samaat.pk",
-    "mode": "photo"
+    "featuredImageAlt": "Daraz & OLX Hearing Aids vs a Real Dealer — Samaat.pk — Samaat.pk"
   },
   "disadvantages-of-hearing-aids-honest-guide": {
     "title": "The Disadvantages of Hearing Aids — Honest Guide",
@@ -198,5 +197,17 @@
       "#196a6e"
     ],
     "figure": "5–7 Years"
+  },
+  "digital-hearing-aids-buyers-pakistan": {
+    "title": "Digital vs Analog Hearing Aids in Pakistan",
+    "kicker": "SAMAAT",
+    "mode": "graphic",
+    "grad": [
+      "#0e3a45",
+      "#155e6b"
+    ],
+    "figure": "Rs 15,000+",
+    "image": null,
+    "alt": "Digital vs analog hearing aids in Pakistan — Samaat.pk"
   }
 }
