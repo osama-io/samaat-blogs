@@ -2,7 +2,7 @@
 title: "Rechargeable vs Battery Hearing Aids: Which Lasts Longer in Pakistan?"
 description: "Rechargeable or disposable hearing aid batteries in Pakistan? Compare runtime, five-year cost, power cuts, humidity, and dexterity before you choose."
 slug: rechargeable-vs-battery-hearing-aids
-publishedAt: 2026-09-12
+publishedAt: 2026-09-02T20:40:00+05:00
 author: Samaat Editorial Team
 category: Technology
 featuredImage: https://images.unsplash.com/photo-1505740106531-4243f3831c78?auto=format&fit=crop&w=1200&q=80

@@ -2,8 +2,8 @@
 title: "Siemens Hearing Aid Price in Pakistan (2026)"
 description: "Siemens hearing aid price in Pakistan 2026: PKR 55,000 to 380,000 per ear now sold as Signia. Model bands, copy-device trap, and a 5-year cost comparison."
 slug: siemens-hearing-aid-price-pakistan
-publishedAt: 2026-09-30
-updatedAt: 2026-09-30
+publishedAt: 2026-08-19T10:35:00+05:00
+updatedAt: 2026-08-19T10:35:00+05:00
 author: Samaat Editorial Team
 category: Brands
 featuredImage: https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80

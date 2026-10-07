@@ -2,7 +2,7 @@
 title: "Draft example: how to use the draft flag"
 description: "A template post kept in draft state. It demonstrates that draft content never reaches production pages or the sitemap."
 slug: draft-example-post
-publishedAt: 2026-09-22
+publishedAt: 2026-08-10T17:05:00+05:00
 author: Samaat Editorial Team
 category: Buying Guides
 featuredImage: https://images.unsplash.com/photo-1596088869451-491e167efabb?auto=format&fit=crop&w=1200&q=80

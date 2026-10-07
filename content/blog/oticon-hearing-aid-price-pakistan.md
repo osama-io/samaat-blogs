@@ -2,8 +2,8 @@
 title: "Oticon Hearing Aid Price in Pakistan (2026)"
 description: "Oticon hearing aid price in Pakistan 2026: PKR 50,000 to 350,000 per ear. Model guide with XCEED 3 UP for severe loss plus an honest note on availability."
 slug: oticon-hearing-aid-price-pakistan
-publishedAt: 2026-09-30
-updatedAt: 2026-09-30
+publishedAt: 2026-09-14T18:15:00+05:00
+updatedAt: 2026-09-14T18:15:00+05:00
 author: Samaat Editorial Team
 category: Brands
 featuredImage: https://images.unsplash.com/photo-1603336540413-009bd9dc5133?auto=format&fit=crop&w=1200&q=80

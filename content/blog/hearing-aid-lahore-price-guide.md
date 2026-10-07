@@ -2,8 +2,8 @@
 title: "Hearing Aid Price in Lahore (2026): Clinics, Models & Best Deals"
 description: "Hearing aid price in Lahore in 2026: PKR 15,000–550,000 per ear, model tables by brand, which clinics stock Phonak/Signia/Rexton, and how to compare Lahori quotes."
 slug: hearing-aid-lahore-price-guide
-publishedAt: 2026-09-23
-updatedAt: 2026-09-23
+publishedAt: 2026-10-03T20:00:00+05:00
+updatedAt: 2026-10-03T20:00:00+05:00
 author: Samaat Editorial Team
 category: Local Guides
 featuredImage: https://images.unsplash.com/photo-1596088728260-08a654466a00?auto=format&fit=crop&w=1200&q=80

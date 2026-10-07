@@ -2,8 +2,8 @@
 title: "Hearing Aid Price in Pakistan (2026): Full Cost Guide"
 description: "Hearing aid price in Pakistan in 2026: PKR 15,000 to 350,000+ per ear by tier, brand price tables (Phonak, Signia, Rexton, Widex), city price differences and the hidden costs to ask about first."
 slug: hearing-aid-prices-in-pakistan-2026
-publishedAt: 2026-09-21
-updatedAt: 2026-09-23
+publishedAt: 2026-08-17T19:45:00+05:00
+updatedAt: 2026-08-17T19:45:00+05:00
 author: Samaat Editorial Team
 category: Buying Guides
 featuredImage: https://images.unsplash.com/photo-1596088728260-08a654466a00?auto=format&fit=crop&w=1200&q=80

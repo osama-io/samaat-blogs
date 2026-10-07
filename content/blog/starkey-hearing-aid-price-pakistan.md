@@ -2,8 +2,8 @@
 title: "Starkey Hearing Aid Price in Pakistan (2026)"
 description: "Starkey hearing aid price in Pakistan 2026: PKR 55,000 to 320,000 per ear. Genesis and Omega AI model guide, health-sensor features, and who should buy."
 slug: starkey-hearing-aid-price-pakistan
-publishedAt: 2026-09-30
-updatedAt: 2026-09-30
+publishedAt: 2026-09-26T12:10:00+05:00
+updatedAt: 2026-09-26T12:10:00+05:00
 author: Samaat Editorial Team
 category: Brands
 featuredImage: https://images.unsplash.com/photo-1487215078519-e21cc028cb29?auto=format&fit=crop&w=1200&q=80

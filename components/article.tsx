@@ -1,6 +1,6 @@
 import Link from "next/link"
 import Image from "next/image"
-import { articleJsonLd, breadcrumbJsonLd } from "@/lib/schema"
+import { articleJsonLd, breadcrumbJsonLd, faqJsonLd } from "@/lib/schema"
 import { absoluteUrl, site } from "@/lib/site"
 import { markdownToHtml } from "@/lib/markdown"
 import { getRelatedPosts } from "@/lib/posts"
@@ -26,6 +26,10 @@ export default function Article({ post }: { post: Post }) {
     <article itemScope itemType="https://schema.org/BlogPosting">
       <JsonLd id="article-schema" data={articleJsonLd(post, url)} />
       <JsonLd id="breadcrumb-schema" data={breadcrumbs} />
+      {(() => {
+        const faq = faqJsonLd(post)
+        return faq ? <JsonLd id="faq-schema" data={faq} /> : null
+      })()}
 
       <section className="relative pb-16">
         <div

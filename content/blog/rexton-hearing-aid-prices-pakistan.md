@@ -2,8 +2,8 @@
 title: "Rexton Hearing Aid Price in Pakistan (2026) — Full Guide"
 description: "Rexton hearing aid price in Pakistan in 2026: PKR 25,000–350,000 per ear by tier. Model table, what the Rexton biX/Reach platforms offer, and who should buy it."
 slug: rexton-hearing-aid-prices-pakistan
-publishedAt: 2026-09-23
-updatedAt: 2026-09-23
+publishedAt: 2026-08-12T11:55:00+05:00
+updatedAt: 2026-08-12T11:55:00+05:00
 author: Samaat Editorial Team
 category: Buying Guides
 featuredImage: https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80

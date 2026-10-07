@@ -2,8 +2,8 @@
 title: "Hearing Aid for Severe Hearing Loss: Power Guide"
 description: "Hearing aid for severe hearing loss in Pakistan: power BTE models (XCEED, TARGA HP, BiCore B HP), why CIC fails, PKR bands, ENT referral path."
 slug: hearing-aid-severe-loss-power-pakistan
-publishedAt: 2026-09-30
-updatedAt: 2026-09-30
+publishedAt: 2026-10-01T14:30:00+05:00
+updatedAt: 2026-10-01T14:30:00+05:00
 author: Samaat Editorial Team
 category: Learn
 featuredImage: https://images.unsplash.com/photo-1623376550324-d406ae677c04?auto=format&fit=crop&w=1200&q=80

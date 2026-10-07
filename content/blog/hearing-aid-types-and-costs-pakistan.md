@@ -2,8 +2,8 @@
 title: "Hearing Aid Types and Costs in Pakistan (2026)"
 description: "Every hearing aid type and cost in Pakistan: BTE, RIC, ITE, ITC, CIC and IIC with PKR price ranges per style, who each fits, and the style-price trade-offs."
 slug: hearing-aid-types-and-costs-pakistan
-publishedAt: 2026-09-23
-updatedAt: 2026-09-23
+publishedAt: 2026-08-21T15:45:00+05:00
+updatedAt: 2026-08-21T15:45:00+05:00
 author: Samaat Editorial Team
 category: Buying Guides
 featuredImage: https://images.unsplash.com/photo-1584982751601-97dcc096659c?auto=format&fit=crop&w=1200&q=80

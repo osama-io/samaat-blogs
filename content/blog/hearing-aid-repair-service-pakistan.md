@@ -2,8 +2,8 @@
 title: "Hearing Aid Repair in Pakistan: Costs & Warranty"
 description: "Hearing aid repair in Pakistan: what a 1 to 2 year warranty covers, repair vs replace math (PKR 8,000 to 35,000), Signia turnaround, avoiding copy bait."
 slug: hearing-aid-repair-service-pakistan
-publishedAt: 2026-09-30
-updatedAt: 2026-09-30
+publishedAt: 2026-10-02T14:50:00+05:00
+updatedAt: 2026-10-02T14:50:00+05:00
 author: Samaat Editorial Team
 category: Learn
 featuredImage: https://images.unsplash.com/photo-1584982751601-97dcc096659c?auto=format&fit=crop&w=1200&q=80
