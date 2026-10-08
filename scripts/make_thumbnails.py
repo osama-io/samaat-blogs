@@ -42,6 +42,9 @@ def fetch_image(url: str, slug: str) -> Image.Image:
 
 def rounded_logo() -> Image.Image:
     logo = Image.open(LOGO).convert("RGBA")
+    dark = ROOT / "scripts" / "assets" / "logo-dark.png"
+    if dark.exists():
+        logo = Image.open(dark).convert("RGBA")
     pad = 26
     panel = Image.new("RGBA", (logo.width + pad * 2, logo.height + pad * 2), (255, 255, 255, 0))
     d = ImageDraw.Draw(panel)
@@ -118,10 +121,12 @@ def make_graphic(spec: dict) -> Image.Image:
     # sound-wave arcs from left, subtle strokes
     wave = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     wd = ImageDraw.Draw(wave)
+    rot = spec.get("arc_rot", 0)
     for i, rad in enumerate(range(220, 1180, 90)):
-        alpha = 34 if i % 2 == 0 else 52
-        wd.arc([-520, H // 2 - rad, 180 + rad, H // 2 + rad], start=-64, end=64,
-               fill=(255, 255, 255, alpha), width=10)
+        alpha = 34 if (i + rot) % 2 == 0 else 52
+        a0 = -64 + rot * 22
+        wd.arc([-520, H // 2 - rad - 60 * rot, 180 + rad, H // 2 + rad - 60 * rot],
+               start=a0, end=a0 + 128, fill=(255, 255, 255, alpha), width=10)
     wave = wave.filter(ImageFilter.GaussianBlur(1.2))
     card.alpha_composite(wave)
     # big figure line, mid card

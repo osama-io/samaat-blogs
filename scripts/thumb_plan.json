@@ -116,10 +116,11 @@
     "kicker": "SAMAAT",
     "mode": "graphic",
     "grad": [
-      "#0d3b40",
-      "#124f56"
+      "#2b1d33",
+      "#5a3f6b"
     ],
-    "figure": "Rs 500–4,000"
+    "figure": "Rs 500–4,000",
+    "arc_rot": 2
   },
   "am-hearing-aid-price-in-pakistan-cheapest-genuine": {
     "title": "A&M Hearing Aid Price Pakistan — Cheapest Genuine",
@@ -140,7 +141,8 @@
       "#123a52",
       "#16628f"
     ],
-    "figure": "Rs 500–2,000"
+    "figure": "Rs 500–2,000",
+    "arc_rot": 0
   },
   "one-vs-two-hearing-aids-bilateral-pakistan": {
     "title": "One vs Two Hearing Aids — What is Better",
@@ -150,7 +152,8 @@
       "#0e3a45",
       "#155e6b"
     ],
-    "figure": "1 or 2?"
+    "figure": "1 or 2?",
+    "arc_rot": 1
   },
   "signia-pure-hearing-aid-price-pakistan": {
     "title": "Signia Pure Hearing Aid Price in Pakistan 2026",
@@ -166,7 +169,8 @@
       "#12303f",
       "#1a5e74"
     ],
-    "figure": "85,000+"
+    "figure": "85,000+",
+    "arc_rot": 2
   },
   "hearing-aid-warranty-and-repair-cost-pakistan": {
     "title": "Hearing Aid Warranty & Repair Cost in Pakistan",
@@ -176,7 +180,8 @@
       "#14303a",
       "#1d5a52"
     ],
-    "figure": "5,000–15,000"
+    "figure": "5,000–15,000",
+    "arc_rot": 3
   },
   "hearing-aids-for-children-students-pakistan": {
     "title": "Hearing Aids for Children and Students in Pakistan",
@@ -186,17 +191,19 @@
       "#153229",
       "#1c6b4f"
     ],
-    "figure": "60,000+"
+    "figure": "60,000+",
+    "arc_rot": 0
   },
   "how-long-do-hearing-aids-last-pakistan": {
     "title": "How Long Do Hearing Aids Last in Pakistan",
     "kicker": "SAMAAT",
     "mode": "graphic",
     "grad": [
-      "#12333d",
-      "#196a6e"
+      "#332218",
+      "#6b4a1e"
     ],
-    "figure": "5–7 Years"
+    "figure": "5–7 Years",
+    "arc_rot": 1
   },
   "digital-hearing-aids-buyers-pakistan": {
     "title": "Digital vs Analog Hearing Aids in Pakistan",
@@ -208,6 +215,7 @@
     ],
     "figure": "Rs 15,000+",
     "image": null,
-    "alt": "Digital vs analog hearing aids in Pakistan — Samaat.pk"
+    "alt": "Digital vs analog hearing aids in Pakistan — Samaat.pk",
+    "arc_rot": 2
   }
 }
